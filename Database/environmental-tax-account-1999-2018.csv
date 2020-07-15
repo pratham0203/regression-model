@@ -1,0 +1,661 @@
+year,Industry_code,Industry_desc,source,data_value,flag
+1999,AA1,Agriculture,Environmental Accounts,4,F
+1999,AA2,Forestry and Logging,Environmental Accounts,6,F
+1999,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,8,F
+1999,BB1,Mining,Environmental Accounts,86,F
+1999,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,47,F
+1999,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+1999,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,3,F
+1999,CC4,Printing,Environmental Accounts,1,F
+1999,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,798,F
+1999,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,13,F
+1999,CC7,Metal Product Manufacturing,Environmental Accounts,4,F
+1999,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,7,F
+1999,CC9,Furniture and Other Manufacturing,Environmental Accounts,1,F
+1999,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,16,F
+1999,EE1,Construction,Environmental Accounts,80,F
+1999,FF1,Wholesale Trade,Environmental Accounts,31,F
+1999,GH1,Retail Trade,Environmental Accounts,19,F
+1999,GH2,Accommodation and Food Services,Environmental Accounts,10,F
+1999,HHD,Households,Environmental Accounts,119,F
+1999,II1,"Transport, Postal and Warehousing",Environmental Accounts,254,F
+1999,JJ1,Information Media and Telecommunications,Environmental Accounts,3,F
+1999,KK1,Financial and Insurance Services,Environmental Accounts,20,F
+1999,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,46,F
+1999,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+1999,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,16,F
+1999,MN2,Administrative and Support Services,Environmental Accounts,4,F
+1999,OO1,Local Government Administration,Environmental Accounts,0,F
+1999,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,1,F
+1999,PP1,Education and Training,Environmental Accounts,2,F
+1999,QQ1,Health Care and Social Assistance,Environmental Accounts,6,F
+1999,RS1,Arts and Recreation Services,Environmental Accounts,9,F
+1999,RS2,Other Services,Environmental Accounts,5,F
+1999,UNA,Unallocated,Environmental Accounts,10,F
+2000,AA1,Agriculture,Environmental Accounts,4,F
+2000,AA2,Forestry and Logging,Environmental Accounts,7,F
+2000,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,8,F
+2000,BB1,Mining,Environmental Accounts,93,F
+2000,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,49,F
+2000,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+2000,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,3,F
+2000,CC4,Printing,Environmental Accounts,1,F
+2000,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,751,F
+2000,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,14,F
+2000,CC7,Metal Product Manufacturing,Environmental Accounts,4,F
+2000,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,7,F
+2000,CC9,Furniture and Other Manufacturing,Environmental Accounts,1,F
+2000,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,17,F
+2000,EE1,Construction,Environmental Accounts,85,F
+2000,FF1,Wholesale Trade,Environmental Accounts,33,F
+2000,GH1,Retail Trade,Environmental Accounts,19,F
+2000,GH2,Accommodation and Food Services,Environmental Accounts,10,F
+2000,HHD,Households,Environmental Accounts,117,F
+2000,II1,"Transport, Postal and Warehousing",Environmental Accounts,272,F
+2000,JJ1,Information Media and Telecommunications,Environmental Accounts,3,F
+2000,KK1,Financial and Insurance Services,Environmental Accounts,16,F
+2000,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,45,F
+2000,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2000,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,14,F
+2000,MN2,Administrative and Support Services,Environmental Accounts,4,F
+2000,OO1,Local Government Administration,Environmental Accounts,0,F
+2000,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,1,F
+2000,PP1,Education and Training,Environmental Accounts,2,F
+2000,QQ1,Health Care and Social Assistance,Environmental Accounts,6,F
+2000,RS1,Arts and Recreation Services,Environmental Accounts,9,F
+2000,RS2,Other Services,Environmental Accounts,5,F
+2000,UNA,Unallocated,Environmental Accounts,10,F
+2001,AA1,Agriculture,Environmental Accounts,4,F
+2001,AA2,Forestry and Logging,Environmental Accounts,7,F
+2001,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,8,F
+2001,BB1,Mining,Environmental Accounts,99,F
+2001,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,51,F
+2001,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+2001,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,3,F
+2001,CC4,Printing,Environmental Accounts,1,F
+2001,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,748,F
+2001,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,14,F
+2001,CC7,Metal Product Manufacturing,Environmental Accounts,5,F
+2001,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,7,F
+2001,CC9,Furniture and Other Manufacturing,Environmental Accounts,1,F
+2001,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,17,F
+2001,EE1,Construction,Environmental Accounts,90,F
+2001,FF1,Wholesale Trade,Environmental Accounts,34,F
+2001,GH1,Retail Trade,Environmental Accounts,20,F
+2001,GH2,Accommodation and Food Services,Environmental Accounts,10,F
+2001,HHD,Households,Environmental Accounts,121,F
+2001,II1,"Transport, Postal and Warehousing",Environmental Accounts,286,F
+2001,JJ1,Information Media and Telecommunications,Environmental Accounts,3,F
+2001,KK1,Financial and Insurance Services,Environmental Accounts,16,F
+2001,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,45,F
+2001,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2001,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,14,F
+2001,MN2,Administrative and Support Services,Environmental Accounts,5,F
+2001,OO1,Local Government Administration,Environmental Accounts,0,F
+2001,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2001,PP1,Education and Training,Environmental Accounts,2,F
+2001,QQ1,Health Care and Social Assistance,Environmental Accounts,6,F
+2001,RS1,Arts and Recreation Services,Environmental Accounts,9,F
+2001,RS2,Other Services,Environmental Accounts,5,F
+2001,UNA,Unallocated,Environmental Accounts,11,F
+2002,AA1,Agriculture,Environmental Accounts,8,F
+2002,AA2,Forestry and Logging,Environmental Accounts,11,F
+2002,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,9,F
+2002,BB1,Mining,Environmental Accounts,99,F
+2002,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,60,F
+2002,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2002,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,5,F
+2002,CC4,Printing,Environmental Accounts,2,F
+2002,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,777,F
+2002,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,16,F
+2002,CC7,Metal Product Manufacturing,Environmental Accounts,6,F
+2002,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,10,F
+2002,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2002,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,25,F
+2002,EE1,Construction,Environmental Accounts,102,F
+2002,FF1,Wholesale Trade,Environmental Accounts,43,F
+2002,GH1,Retail Trade,Environmental Accounts,33,F
+2002,GH2,Accommodation and Food Services,Environmental Accounts,19,F
+2002,HHD,Households,Environmental Accounts,357,F
+2002,II1,"Transport, Postal and Warehousing",Environmental Accounts,318,F
+2002,JJ1,Information Media and Telecommunications,Environmental Accounts,5,F
+2002,KK1,Financial and Insurance Services,Environmental Accounts,21,F
+2002,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,77,F
+2002,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2002,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,18,F
+2002,MN2,Administrative and Support Services,Environmental Accounts,6,F
+2002,OO1,Local Government Administration,Environmental Accounts,0,F
+2002,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2002,PP1,Education and Training,Environmental Accounts,3,F
+2002,QQ1,Health Care and Social Assistance,Environmental Accounts,11,F
+2002,RS1,Arts and Recreation Services,Environmental Accounts,17,F
+2002,RS2,Other Services,Environmental Accounts,8,F
+2002,UNA,Unallocated,Environmental Accounts,11,F
+2003,AA1,Agriculture,Environmental Accounts,9,F
+2003,AA2,Forestry and Logging,Environmental Accounts,12,F
+2003,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,4,R
+2003,BB1,Mining,Environmental Accounts,95,F
+2003,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,62,F
+2003,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2003,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,5,F
+2003,CC4,Printing,Environmental Accounts,2,F
+2003,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,942,F
+2003,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,18,F
+2003,CC7,Metal Product Manufacturing,Environmental Accounts,7,F
+2003,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,10,F
+2003,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2003,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,29,F
+2003,EE1,Construction,Environmental Accounts,109,F
+2003,FF1,Wholesale Trade,Environmental Accounts,46,F
+2003,GH1,Retail Trade,Environmental Accounts,36,R
+2003,GH2,Accommodation and Food Services,Environmental Accounts,20,F
+2003,HHD,Households,Environmental Accounts,399,F
+2003,II1,"Transport, Postal and Warehousing",Environmental Accounts,340,F
+2003,JJ1,Information Media and Telecommunications,Environmental Accounts,6,F
+2003,KK1,Financial and Insurance Services,Environmental Accounts,10,F
+2003,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,78,F
+2003,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2003,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,13,F
+2003,MN2,Administrative and Support Services,Environmental Accounts,7,R
+2003,OO1,Local Government Administration,Environmental Accounts,0,F
+2003,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2003,PP1,Education and Training,Environmental Accounts,4,R
+2003,QQ1,Health Care and Social Assistance,Environmental Accounts,12,F
+2003,RS1,Arts and Recreation Services,Environmental Accounts,19,F
+2003,RS2,Other Services,Environmental Accounts,8,F
+2003,UNA,Unallocated,Environmental Accounts,11,F
+2004,AA1,Agriculture,Environmental Accounts,12,F
+2004,AA2,Forestry and Logging,Environmental Accounts,16,F
+2004,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,10,F
+2004,BB1,Mining,Environmental Accounts,66,F
+2004,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,72,F
+2004,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,4,F
+2004,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,7,F
+2004,CC4,Printing,Environmental Accounts,3,F
+2004,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,986,F
+2004,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,19,F
+2004,CC7,Metal Product Manufacturing,Environmental Accounts,8,F
+2004,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,12,F
+2004,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2004,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,37,F
+2004,EE1,Construction,Environmental Accounts,120,F
+2004,FF1,Wholesale Trade,Environmental Accounts,53,F
+2004,GH1,Retail Trade,Environmental Accounts,47,F
+2004,GH2,Accommodation and Food Services,Environmental Accounts,27,F
+2004,HHD,Households,Environmental Accounts,451,F
+2004,II1,"Transport, Postal and Warehousing",Environmental Accounts,369,F
+2004,JJ1,Information Media and Telecommunications,Environmental Accounts,7,F
+2004,KK1,Financial and Insurance Services,Environmental Accounts,21,F
+2004,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,111,F
+2004,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2004,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,21,F
+2004,MN2,Administrative and Support Services,Environmental Accounts,8,F
+2004,OO1,Local Government Administration,Environmental Accounts,0,F
+2004,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2004,PP1,Education and Training,Environmental Accounts,4,F
+2004,QQ1,Health Care and Social Assistance,Environmental Accounts,16,F
+2004,RS1,Arts and Recreation Services,Environmental Accounts,26,F
+2004,RS2,Other Services,Environmental Accounts,10,F
+2004,UNA,Unallocated,Environmental Accounts,7,F
+2005,AA1,Agriculture,Environmental Accounts,13,F
+2005,AA2,Forestry and Logging,Environmental Accounts,17,F
+2005,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,11,F
+2005,BB1,Mining,Environmental Accounts,71,F
+2005,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,77,F
+2005,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,4,F
+2005,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,7,F
+2005,CC4,Printing,Environmental Accounts,3,F
+2005,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,886,F
+2005,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,21,F
+2005,CC7,Metal Product Manufacturing,Environmental Accounts,9,F
+2005,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,13,F
+2005,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2005,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,91,F
+2005,EE1,Construction,Environmental Accounts,129,F
+2005,FF1,Wholesale Trade,Environmental Accounts,57,F
+2005,GH1,Retail Trade,Environmental Accounts,50,F
+2005,GH2,Accommodation and Food Services,Environmental Accounts,29,F
+2005,HHD,Households,Environmental Accounts,462,F
+2005,II1,"Transport, Postal and Warehousing",Environmental Accounts,396,F
+2005,JJ1,Information Media and Telecommunications,Environmental Accounts,8,F
+2005,KK1,Financial and Insurance Services,Environmental Accounts,24,F
+2005,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,119,F
+2005,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2005,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,23,F
+2005,MN2,Administrative and Support Services,Environmental Accounts,8,F
+2005,OO1,Local Government Administration,Environmental Accounts,0,F
+2005,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2005,PP1,Education and Training,Environmental Accounts,4,F
+2005,QQ1,Health Care and Social Assistance,Environmental Accounts,17,F
+2005,RS1,Arts and Recreation Services,Environmental Accounts,28,F
+2005,RS2,Other Services,Environmental Accounts,10,F
+2005,UNA,Unallocated,Environmental Accounts,264,F
+2006,AA1,Agriculture,Environmental Accounts,14,F
+2006,AA2,Forestry and Logging,Environmental Accounts,18,F
+2006,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,12,F
+2006,BB1,Mining,Environmental Accounts,71,F
+2006,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,80,F
+2006,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,4,F
+2006,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,8,F
+2006,CC4,Printing,Environmental Accounts,3,F
+2006,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,932,F
+2006,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,21,F
+2006,CC7,Metal Product Manufacturing,Environmental Accounts,9,F
+2006,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,13,F
+2006,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2006,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,124,F
+2006,EE1,Construction,Environmental Accounts,133,F
+2006,FF1,Wholesale Trade,Environmental Accounts,59,F
+2006,GH1,Retail Trade,Environmental Accounts,52,F
+2006,GH2,Accommodation and Food Services,Environmental Accounts,30,F
+2006,HHD,Households,Environmental Accounts,470,F
+2006,II1,"Transport, Postal and Warehousing",Environmental Accounts,410,F
+2006,JJ1,Information Media and Telecommunications,Environmental Accounts,8,F
+2006,KK1,Financial and Insurance Services,Environmental Accounts,24,F
+2006,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,124,F
+2006,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2006,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,23,F
+2006,MN2,Administrative and Support Services,Environmental Accounts,8,F
+2006,OO1,Local Government Administration,Environmental Accounts,0,F
+2006,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2006,PP1,Education and Training,Environmental Accounts,4,F
+2006,QQ1,Health Care and Social Assistance,Environmental Accounts,18,F
+2006,RS1,Arts and Recreation Services,Environmental Accounts,29,F
+2006,RS2,Other Services,Environmental Accounts,11,F
+2006,UNA,Unallocated,Environmental Accounts,421,F
+2007,AA1,Agriculture,Environmental Accounts,14,F
+2007,AA2,Forestry and Logging,Environmental Accounts,18,F
+2007,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,11,F
+2007,BB1,Mining,Environmental Accounts,62,F
+2007,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,83,F
+2007,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,4,F
+2007,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,8,F
+2007,CC4,Printing,Environmental Accounts,3,F
+2007,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,871,F
+2007,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,23,F
+2007,CC7,Metal Product Manufacturing,Environmental Accounts,9,F
+2007,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,13,F
+2007,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2007,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,113,F
+2007,EE1,Construction,Environmental Accounts,142,F
+2007,FF1,Wholesale Trade,Environmental Accounts,60,F
+2007,GH1,Retail Trade,Environmental Accounts,52,F
+2007,GH2,Accommodation and Food Services,Environmental Accounts,30,F
+2007,HHD,Households,Environmental Accounts,468,F
+2007,II1,"Transport, Postal and Warehousing",Environmental Accounts,439,F
+2007,JJ1,Information Media and Telecommunications,Environmental Accounts,8,F
+2007,KK1,Financial and Insurance Services,Environmental Accounts,24,F
+2007,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,126,F
+2007,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2007,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,23,F
+2007,MN2,Administrative and Support Services,Environmental Accounts,8,F
+2007,OO1,Local Government Administration,Environmental Accounts,0,F
+2007,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2007,PP1,Education and Training,Environmental Accounts,4,F
+2007,QQ1,Health Care and Social Assistance,Environmental Accounts,18,F
+2007,RS1,Arts and Recreation Services,Environmental Accounts,29,F
+2007,RS2,Other Services,Environmental Accounts,10,F
+2007,UNA,Unallocated,Environmental Accounts,539,F
+2008,AA1,Agriculture,Environmental Accounts,17,F
+2008,AA2,Forestry and Logging,Environmental Accounts,10,F
+2008,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,13,F
+2008,BB1,Mining,Environmental Accounts,49,F
+2008,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,85,F
+2008,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2008,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,11,F
+2008,CC4,Printing,Environmental Accounts,2,F
+2008,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,832,F
+2008,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,25,F
+2008,CC7,Metal Product Manufacturing,Environmental Accounts,10,F
+2008,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,12,F
+2008,CC9,Furniture and Other Manufacturing,Environmental Accounts,6,F
+2008,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,119,F
+2008,EE1,Construction,Environmental Accounts,160,F
+2008,FF1,Wholesale Trade,Environmental Accounts,66,F
+2008,GH1,Retail Trade,Environmental Accounts,56,F
+2008,GH2,Accommodation and Food Services,Environmental Accounts,30,F
+2008,HHD,Households,Environmental Accounts,483,F
+2008,II1,"Transport, Postal and Warehousing",Environmental Accounts,479,F
+2008,JJ1,Information Media and Telecommunications,Environmental Accounts,11,F
+2008,KK1,Financial and Insurance Services,Environmental Accounts,28,F
+2008,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,138,F
+2008,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2008,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,36,F
+2008,MN2,Administrative and Support Services,Environmental Accounts,13,F
+2008,OO1,Local Government Administration,Environmental Accounts,0,F
+2008,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2008,PP1,Education and Training,Environmental Accounts,5,F
+2008,QQ1,Health Care and Social Assistance,Environmental Accounts,18,F
+2008,RS1,Arts and Recreation Services,Environmental Accounts,34,F
+2008,RS2,Other Services,Environmental Accounts,14,F
+2008,UNA,Unallocated,Environmental Accounts,555,F
+2009,AA1,Agriculture,Environmental Accounts,26,F
+2009,AA2,Forestry and Logging,Environmental Accounts,6,F
+2009,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,5,F
+2009,BB1,Mining,Environmental Accounts,56,F
+2009,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,86,F
+2009,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2009,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,9,F
+2009,CC4,Printing,Environmental Accounts,2,F
+2009,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,877,F
+2009,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,27,F
+2009,CC7,Metal Product Manufacturing,Environmental Accounts,13,F
+2009,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,7,F
+2009,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2009,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,122,F
+2009,EE1,Construction,Environmental Accounts,163,F
+2009,FF1,Wholesale Trade,Environmental Accounts,73,F
+2009,GH1,Retail Trade,Environmental Accounts,45,F
+2009,GH2,Accommodation and Food Services,Environmental Accounts,26,F
+2009,HHD,Households,Environmental Accounts,499,F
+2009,II1,"Transport, Postal and Warehousing",Environmental Accounts,531,F
+2009,JJ1,Information Media and Telecommunications,Environmental Accounts,10,F
+2009,KK1,Financial and Insurance Services,Environmental Accounts,31,F
+2009,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,143,F
+2009,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2009,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,36,F
+2009,MN2,Administrative and Support Services,Environmental Accounts,24,F
+2009,OO1,Local Government Administration,Environmental Accounts,0,F
+2009,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2009,PP1,Education and Training,Environmental Accounts,4,F
+2009,QQ1,Health Care and Social Assistance,Environmental Accounts,17,F
+2009,RS1,Arts and Recreation Services,Environmental Accounts,62,F
+2009,RS2,Other Services,Environmental Accounts,15,F
+2009,UNA,Unallocated,Environmental Accounts,520,F
+2010,AA1,Agriculture,Environmental Accounts,23,F
+2010,AA2,Forestry and Logging,Environmental Accounts,1,F
+2010,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,4,F
+2010,BB1,Mining,Environmental Accounts,33,F
+2010,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,89,F
+2010,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2010,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,10,F
+2010,CC4,Printing,Environmental Accounts,2,F
+2010,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,824,F
+2010,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,28,F
+2010,CC7,Metal Product Manufacturing,Environmental Accounts,15,F
+2010,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,10,F
+2010,CC9,Furniture and Other Manufacturing,Environmental Accounts,4,F
+2010,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,156,F
+2010,EE1,Construction,Environmental Accounts,169,F
+2010,FF1,Wholesale Trade,Environmental Accounts,75,F
+2010,GH1,Retail Trade,Environmental Accounts,62,F
+2010,GH2,Accommodation and Food Services,Environmental Accounts,29,F
+2010,HHD,Households,Environmental Accounts,565,F
+2010,II1,"Transport, Postal and Warehousing",Environmental Accounts,555,F
+2010,JJ1,Information Media and Telecommunications,Environmental Accounts,7,F
+2010,KK1,Financial and Insurance Services,Environmental Accounts,29,F
+2010,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,160,F
+2010,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2010,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,31,F
+2010,MN2,Administrative and Support Services,Environmental Accounts,14,F
+2010,OO1,Local Government Administration,Environmental Accounts,0,F
+2010,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2010,PP1,Education and Training,Environmental Accounts,6,F
+2010,QQ1,Health Care and Social Assistance,Environmental Accounts,23,F
+2010,RS1,Arts and Recreation Services,Environmental Accounts,87,F
+2010,RS2,Other Services,Environmental Accounts,15,F
+2010,UNA,Unallocated,Environmental Accounts,616,F
+2011,AA1,Agriculture,Environmental Accounts,30,F
+2011,AA2,Forestry and Logging,Environmental Accounts,1,F
+2011,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,6,F
+2011,BB1,Mining,Environmental Accounts,57,F
+2011,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,102,F
+2011,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,4,F
+2011,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,9,F
+2011,CC4,Printing,Environmental Accounts,2,F
+2011,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,873,F
+2011,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,30,F
+2011,CC7,Metal Product Manufacturing,Environmental Accounts,14,F
+2011,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,11,F
+2011,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2011,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,166,F
+2011,EE1,Construction,Environmental Accounts,184,F
+2011,FF1,Wholesale Trade,Environmental Accounts,93,F
+2011,GH1,Retail Trade,Environmental Accounts,54,F
+2011,GH2,Accommodation and Food Services,Environmental Accounts,30,F
+2011,HHD,Households,Environmental Accounts,662,F
+2011,II1,"Transport, Postal and Warehousing",Environmental Accounts,628,F
+2011,JJ1,Information Media and Telecommunications,Environmental Accounts,6,F
+2011,KK1,Financial and Insurance Services,Environmental Accounts,39,F
+2011,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,160,F
+2011,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2011,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,34,F
+2011,MN2,Administrative and Support Services,Environmental Accounts,12,F
+2011,OO1,Local Government Administration,Environmental Accounts,0,F
+2011,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,2,F
+2011,PP1,Education and Training,Environmental Accounts,5,F
+2011,QQ1,Health Care and Social Assistance,Environmental Accounts,19,F
+2011,RS1,Arts and Recreation Services,Environmental Accounts,114,F
+2011,RS2,Other Services,Environmental Accounts,15,F
+2011,UNA,Unallocated,Environmental Accounts,608,F
+2012,AA1,Agriculture,Environmental Accounts,54,F
+2012,AA2,Forestry and Logging,Environmental Accounts,1,F
+2012,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,5,F
+2012,BB1,Mining,Environmental Accounts,35,F
+2012,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,103,F
+2012,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2012,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,10,F
+2012,CC4,Printing,Environmental Accounts,2,F
+2012,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,919,R
+2012,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,31,F
+2012,CC7,Metal Product Manufacturing,Environmental Accounts,7,F
+2012,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,8,F
+2012,CC9,Furniture and Other Manufacturing,Environmental Accounts,3,F
+2012,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,133,F
+2012,EE1,Construction,Environmental Accounts,194,F
+2012,FF1,Wholesale Trade,Environmental Accounts,102,F
+2012,GH1,Retail Trade,Environmental Accounts,54,F
+2012,GH2,Accommodation and Food Services,Environmental Accounts,15,F
+2012,HHD,Households,Environmental Accounts,712,F
+2012,II1,"Transport, Postal and Warehousing",Environmental Accounts,642,R
+2012,JJ1,Information Media and Telecommunications,Environmental Accounts,10,F
+2012,KK1,Financial and Insurance Services,Environmental Accounts,29,F
+2012,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,206,F
+2012,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2012,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,35,F
+2012,MN2,Administrative and Support Services,Environmental Accounts,14,F
+2012,OO1,Local Government Administration,Environmental Accounts,1,F
+2012,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,3,F
+2012,PP1,Education and Training,Environmental Accounts,7,F
+2012,QQ1,Health Care and Social Assistance,Environmental Accounts,22,F
+2012,RS1,Arts and Recreation Services,Environmental Accounts,101,F
+2012,RS2,Other Services,Environmental Accounts,9,F
+2012,UNA,Unallocated,Environmental Accounts,612,F
+2013,AA1,Agriculture,Environmental Accounts,14,F
+2013,AA2,Forestry and Logging,Environmental Accounts,1,F
+2013,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,8,F
+2013,BB1,Mining,Environmental Accounts,52,F
+2013,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,102,F
+2013,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2013,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,11,F
+2013,CC4,Printing,Environmental Accounts,2,F
+2013,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,922,F
+2013,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,32,F
+2013,CC7,Metal Product Manufacturing,Environmental Accounts,5,F
+2013,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,9,F
+2013,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2013,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,165,F
+2013,EE1,Construction,Environmental Accounts,203,F
+2013,FF1,Wholesale Trade,Environmental Accounts,93,F
+2013,GH1,Retail Trade,Environmental Accounts,67,F
+2013,GH2,Accommodation and Food Services,Environmental Accounts,17,F
+2013,HHD,Households,Environmental Accounts,720,F
+2013,II1,"Transport, Postal and Warehousing",Environmental Accounts,665,F
+2013,JJ1,Information Media and Telecommunications,Environmental Accounts,9,F
+2013,KK1,Financial and Insurance Services,Environmental Accounts,32,F
+2013,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,191,F
+2013,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2013,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,29,F
+2013,MN2,Administrative and Support Services,Environmental Accounts,13,F
+2013,OO1,Local Government Administration,Environmental Accounts,0,F
+2013,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,3,F
+2013,PP1,Education and Training,Environmental Accounts,5,F
+2013,QQ1,Health Care and Social Assistance,Environmental Accounts,25,F
+2013,RS1,Arts and Recreation Services,Environmental Accounts,113,F
+2013,RS2,Other Services,Environmental Accounts,9,F
+2013,UNA,Unallocated,Environmental Accounts,641,F
+2014,AA1,Agriculture,Environmental Accounts,21,F
+2014,AA2,Forestry and Logging,Environmental Accounts,1,F
+2014,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,8,F
+2014,BB1,Mining,Environmental Accounts,52,F
+2014,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,120,F
+2014,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+2014,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,11,F
+2014,CC4,Printing,Environmental Accounts,2,F
+2014,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,900,F
+2014,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,35,F
+2014,CC7,Metal Product Manufacturing,Environmental Accounts,5,F
+2014,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,10,F
+2014,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2014,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,144,F
+2014,EE1,Construction,Environmental Accounts,218,F
+2014,FF1,Wholesale Trade,Environmental Accounts,94,F
+2014,GH1,Retail Trade,Environmental Accounts,67,F
+2014,GH2,Accommodation and Food Services,Environmental Accounts,18,F
+2014,HHD,Households,Environmental Accounts,741,F
+2014,II1,"Transport, Postal and Warehousing",Environmental Accounts,729,F
+2014,JJ1,Information Media and Telecommunications,Environmental Accounts,12,F
+2014,KK1,Financial and Insurance Services,Environmental Accounts,28,F
+2014,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,217,F
+2014,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2014,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,32,F
+2014,MN2,Administrative and Support Services,Environmental Accounts,14,F
+2014,OO1,Local Government Administration,Environmental Accounts,0,F
+2014,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,4,F
+2014,PP1,Education and Training,Environmental Accounts,6,F
+2014,QQ1,Health Care and Social Assistance,Environmental Accounts,31,F
+2014,RS1,Arts and Recreation Services,Environmental Accounts,115,F
+2014,RS2,Other Services,Environmental Accounts,10,F
+2014,UNA,Unallocated,Environmental Accounts,768,F
+2015,AA1,Agriculture,Environmental Accounts,17,F
+2015,AA2,Forestry and Logging,Environmental Accounts,1,F
+2015,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,9,F
+2015,BB1,Mining,Environmental Accounts,60,F
+2015,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,129,F
+2015,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+2015,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,12,F
+2015,CC4,Printing,Environmental Accounts,2,F
+2015,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,1026,F
+2015,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,38,F
+2015,CC7,Metal Product Manufacturing,Environmental Accounts,7,F
+2015,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,9,F
+2015,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2015,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,182,F
+2015,EE1,Construction,Environmental Accounts,236,F
+2015,FF1,Wholesale Trade,Environmental Accounts,102,F
+2015,GH1,Retail Trade,Environmental Accounts,71,F
+2015,GH2,Accommodation and Food Services,Environmental Accounts,16,F
+2015,HHD,Households,Environmental Accounts,696,F
+2015,II1,"Transport, Postal and Warehousing",Environmental Accounts,782,F
+2015,JJ1,Information Media and Telecommunications,Environmental Accounts,12,F
+2015,KK1,Financial and Insurance Services,Environmental Accounts,26,F
+2015,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,158,F
+2015,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2015,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,37,F
+2015,MN2,Administrative and Support Services,Environmental Accounts,14,F
+2015,OO1,Local Government Administration,Environmental Accounts,0,F
+2015,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,3,F
+2015,PP1,Education and Training,Environmental Accounts,6,F
+2015,QQ1,Health Care and Social Assistance,Environmental Accounts,31,F
+2015,RS1,Arts and Recreation Services,Environmental Accounts,117,F
+2015,RS2,Other Services,Environmental Accounts,9,F
+2015,UNA,Unallocated,Environmental Accounts,697,F
+2016,AA1,Agriculture,Environmental Accounts,15,F
+2016,AA2,Forestry and Logging,Environmental Accounts,2,F
+2016,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,9,F
+2016,BB1,Mining,Environmental Accounts,51,F
+2016,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,123,F
+2016,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,2,F
+2016,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,13,F
+2016,CC4,Printing,Environmental Accounts,3,F
+2016,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,1227,F
+2016,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,39,F
+2016,CC7,Metal Product Manufacturing,Environmental Accounts,8,F
+2016,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,11,F
+2016,CC9,Furniture and Other Manufacturing,Environmental Accounts,1,F
+2016,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,172,F
+2016,EE1,Construction,Environmental Accounts,255,F
+2016,FF1,Wholesale Trade,Environmental Accounts,108,F
+2016,GH1,Retail Trade,Environmental Accounts,63,F
+2016,GH2,Accommodation and Food Services,Environmental Accounts,18,F
+2016,HHD,Households,Environmental Accounts,641,F
+2016,II1,"Transport, Postal and Warehousing",Environmental Accounts,816,F
+2016,JJ1,Information Media and Telecommunications,Environmental Accounts,10,F
+2016,KK1,Financial and Insurance Services,Environmental Accounts,23,F
+2016,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,133,F
+2016,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2016,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,36,F
+2016,MN2,Administrative and Support Services,Environmental Accounts,16,F
+2016,OO1,Local Government Administration,Environmental Accounts,0,F
+2016,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,3,F
+2016,PP1,Education and Training,Environmental Accounts,6,F
+2016,QQ1,Health Care and Social Assistance,Environmental Accounts,33,F
+2016,RS1,Arts and Recreation Services,Environmental Accounts,94,F
+2016,RS2,Other Services,Environmental Accounts,10,F
+2016,UNA,Unallocated,Environmental Accounts,699,F
+2017,AA1,Agriculture,Environmental Accounts,15,F
+2017,AA2,Forestry and Logging,Environmental Accounts,2,F
+2017,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,9,F
+2017,BB1,Mining,Environmental Accounts,58,F
+2017,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,133,F
+2017,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,F
+2017,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,10,F
+2017,CC4,Printing,Environmental Accounts,3,F
+2017,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,1206,F
+2017,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,41,F
+2017,CC7,Metal Product Manufacturing,Environmental Accounts,10,F
+2017,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,9,F
+2017,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,F
+2017,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,181,F
+2017,EE1,Construction,Environmental Accounts,273,F
+2017,FF1,Wholesale Trade,Environmental Accounts,112,F
+2017,GH1,Retail Trade,Environmental Accounts,63,F
+2017,GH2,Accommodation and Food Services,Environmental Accounts,18,F
+2017,HHD,Households,Environmental Accounts,641,F
+2017,II1,"Transport, Postal and Warehousing",Environmental Accounts,849,F
+2017,JJ1,Information Media and Telecommunications,Environmental Accounts,11,F
+2017,KK1,Financial and Insurance Services,Environmental Accounts,23,F
+2017,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,134,F
+2017,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2017,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,40,F
+2017,MN2,Administrative and Support Services,Environmental Accounts,21,F
+2017,OO1,Local Government Administration,Environmental Accounts,0,F
+2017,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,5,F
+2017,PP1,Education and Training,Environmental Accounts,6,F
+2017,QQ1,Health Care and Social Assistance,Environmental Accounts,34,F
+2017,RS1,Arts and Recreation Services,Environmental Accounts,95,F
+2017,RS2,Other Services,Environmental Accounts,10,F
+2017,UNA,Unallocated,Environmental Accounts,773,F
+2018,AA1,Agriculture,Environmental Accounts,15,R
+2018,AA2,Forestry and Logging,Environmental Accounts,2,R
+2018,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",Environmental Accounts,9,R
+2018,BB1,Mining,Environmental Accounts,56,R
+2018,CC1,"Food, Beverage and Tobacco Product Manufacturing",Environmental Accounts,140,R
+2018,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",Environmental Accounts,3,R
+2018,CC3,Wood and Paper Products Manufacturing,Environmental Accounts,10,R
+2018,CC4,Printing,Environmental Accounts,3,R
+2018,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",Environmental Accounts,1182,R
+2018,CC6,Non-Metallic Mineral Product Manufacturing,Environmental Accounts,44,R
+2018,CC7,Metal Product Manufacturing,Environmental Accounts,11,R
+2018,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",Environmental Accounts,9,R
+2018,CC9,Furniture and Other Manufacturing,Environmental Accounts,2,R
+2018,DD1,"Electricity, Gas, Water and Waste Services",Environmental Accounts,176,R
+2018,EE1,Construction,Environmental Accounts,288,R
+2018,FF1,Wholesale Trade,Environmental Accounts,117,R
+2018,GH1,Retail Trade,Environmental Accounts,63,R
+2018,GH2,Accommodation and Food Services,Environmental Accounts,18,R
+2018,HHD,Households,Environmental Accounts,638,R
+2018,II1,"Transport, Postal and Warehousing",Environmental Accounts,899,R
+2018,JJ1,Information Media and Telecommunications,Environmental Accounts,10,R
+2018,KK1,Financial and Insurance Services,Environmental Accounts,24,R
+2018,LL1,"Rental, Hiring and Real Estate Services",Environmental Accounts,135,R
+2018,LL2,Owner-occupied property operation (national accounts only),Environmental Accounts,,F
+2018,MN1,"Professional, Scientific and Technical Services",Environmental Accounts,41,R
+2018,MN2,Administrative and Support Services,Environmental Accounts,22,R
+2018,OO1,Local Government Administration,Environmental Accounts,0,R
+2018,OO2,"Central Government Administration, Defence and Public Safety",Environmental Accounts,6,R
+2018,PP1,Education and Training,Environmental Accounts,6,R
+2018,QQ1,Health Care and Social Assistance,Environmental Accounts,34,R
+2018,RS1,Arts and Recreation Services,Environmental Accounts,94,R
+2018,RS2,Other Services,Environmental Accounts,11,R
+2018,UNA,Unallocated,Environmental Accounts,816,R
